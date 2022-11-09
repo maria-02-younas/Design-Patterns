@@ -1,0 +1,21 @@
+import java.util.ArrayList;
+
+public class Publisher {
+	ArrayList<String> subscribers_names = new ArrayList<String>();
+	
+	private int find_index(String name) {
+		return subscribers_names.indexOf(name);
+	}
+	
+	public void subscriber(String name) {
+		subscribers_names.add(name);
+	}
+	
+	public void unsubscribe(String name) {
+		subscribers_names.remove(find_index(name));
+	}
+	
+	public void notify_All() {
+		
+	}
+}

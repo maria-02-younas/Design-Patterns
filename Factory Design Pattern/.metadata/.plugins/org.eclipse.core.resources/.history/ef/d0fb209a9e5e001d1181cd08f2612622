@@ -1,0 +1,16 @@
+
+public class AsusManufacturer extends Company {
+
+	@Override
+	public GPU createGPU() {
+		// TODO Auto-generated method stub
+		return new AsusGPU();
+	}
+
+	@Override
+	public Monitor createMonitor() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+}

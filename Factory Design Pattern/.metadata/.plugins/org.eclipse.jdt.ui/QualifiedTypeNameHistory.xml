@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="BurgerFactory"/>
+    <fullyQualifiedTypeName name="BeefBurger"/>
+    <fullyQualifiedTypeName name="VeggieBurger"/>
+    <fullyQualifiedTypeName name="BeefBurgerRestaurant"/>
+    <fullyQualifiedTypeName name="VeggieBurgerRestaurant"/>
+    <fullyQualifiedTypeName name="IBurger"/>
+    <fullyQualifiedTypeName name="IPizza"/>
+    <fullyQualifiedTypeName name="Restaurant"/>
+    <fullyQualifiedTypeName name="Monitor"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="AsusGPU"/>
+    <fullyQualifiedTypeName name="AsusMonitor"/>
+    <fullyQualifiedTypeName name="MsiManufacturer"/>
+    <fullyQualifiedTypeName name="Company"/>
+    <fullyQualifiedTypeName name="AsusManufacturer"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\Lectures\Semester 7\Design Defects and Restructuring\Design Patterns\Observer Design Pattern\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3866633346.index
+2761809119.index

@@ -1,0 +1,37 @@
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Publisher publisher = new Publisher();
+		
+		System.out.println("Subscribe via names");
+		
+		for (int i = 0; i < 5; i++) {
+			publisher.subscriber("Name " + (i+1), new ConcreteSubscriber1());
+		}
+		
+		publisher.notify_All();
+		
+		publisher.unsubscribe("Name 3");
+		
+		publisher.notify_All();
+		
+		System.out.println("Subscribe via mobile numbers");
+		
+		Scanner get = new Scanner(System.in);
+		
+		for (int i = 0; i < 5; i++) {
+			String number = get.nextInt();
+			publisher.subscriber(number, new ConcreteSubscriber1());
+		}
+		
+		publisher.notify_All();
+		
+		publisher.unsubscribe("Name 3");
+		
+		publisher.notify_All();
+	}
+
+}

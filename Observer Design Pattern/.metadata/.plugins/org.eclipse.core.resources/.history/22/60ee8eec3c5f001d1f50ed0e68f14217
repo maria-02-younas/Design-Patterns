@@ -1,0 +1,9 @@
+import java.util.ArrayList;
+
+public class Publisher {
+	ArrayList<Subscriber> subscriber_names = new ArrayList<Subscriber>();
+	
+	public void subscriber(Subscriber subscriber, String name) {
+		subscriber_names.add(subscriber, name);
+	}
+}

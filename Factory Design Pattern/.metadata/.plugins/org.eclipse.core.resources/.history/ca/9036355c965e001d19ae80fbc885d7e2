@@ -1,0 +1,36 @@
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Restaurant restaurant = new Restaurant();
+		
+		Scanner get = new Scanner(System.in);
+		int choice = 0;
+		boolean condition = false;
+
+		do {
+			System.out.println("What do you want to order?\n1. Beef Burger\n2.Veggie Burger\n");
+
+			choice = get.nextInt();
+			
+			if (choice == 1) {
+				restaurant.orderBurger("BEEF");			
+			} else if (choice == 2) {
+				restaurant.orderBurger("VEGGIE");			
+			} else {
+				System.out.println("Invalid order choice!");
+			} 
+			
+			System.out.println("Want to order(1--->Yes/0--->No)?\n");
+			Scanner bool = new Scanner(System.in);
+			condition = bool.nextBoolean();
+			
+		} while (condition);
+		
+		System.out.println("*** Thank You! ----- See you soon! ----- Have a good day! :) ***");
+		
+	}
+
+}

@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+D:\Lectures\Semester 7\Design Defects and Restructuring\Design Patterns\Factory Design Pattern\.metadata\.plugins\org.eclipse.jdt.core
+2761809119.index
+3618800635.index
+1865797976.index
+230356824.index
+198374796.index

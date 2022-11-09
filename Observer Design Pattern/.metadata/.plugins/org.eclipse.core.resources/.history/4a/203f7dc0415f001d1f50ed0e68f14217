@@ -1,0 +1,20 @@
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+public class Publisher {
+	private Map<String, List<Subscriber>> subscriber_names = new HashMap<String, List<Subscriber>>();
+	
+	public void subscriber(String name, Subscriber subscriber) {
+		subscriber_names.put(name, (List<Subscriber>) subscriber);
+	}
+	
+	public void unsubscribe(String name) {
+		subscriber_names.remove(name);
+	}
+	
+	public void notify_All() {
+		subscriber_names.forEach((name, subscribers) -> ((Subscriber) subscribers).update(name));
+	}
+	
+}

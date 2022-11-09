@@ -1,0 +1,8 @@
+
+public class ConcreteSubscriber1 (String name) implements Subscriber {
+	@Override
+	public void update() {
+		// TODO Auto-generated method stub
+		System.out.println("Updated");
+	}
+}

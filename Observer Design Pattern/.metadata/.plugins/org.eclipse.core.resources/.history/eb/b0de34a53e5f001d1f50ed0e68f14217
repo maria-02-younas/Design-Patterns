@@ -1,0 +1,11 @@
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+public class Publisher {
+	private Map<String, List<Subscriber>> subscriber_names = new HashMap<>();
+	
+	public void subscriber(String name, Subscriber subscriber) {
+		subscriber_names.add()
+	}
+}

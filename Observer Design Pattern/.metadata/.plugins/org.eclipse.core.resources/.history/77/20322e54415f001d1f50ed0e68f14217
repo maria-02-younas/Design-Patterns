@@ -1,0 +1,18 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Publisher publisher = new Publisher();
+		
+		for (int i = 0; i < 5; i++) {
+			publisher.subscriber("Name " + (i+1), new ConcreteSubscriber1());
+		}
+		
+		publisher.notify_All();
+		
+		publisher.unsubscribe("Name 1");
+		
+	}
+
+}
