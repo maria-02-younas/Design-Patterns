@@ -1,6 +1,6 @@
 
 public abstract class PizzaDecorator implements IPizza {
-	protected IPizza decoratepizza;
+	private IPizza decoratepizza;
 	
 	public PizzaDecorator(IPizza decoratepizza) {
 		// TODO Auto-generated constructor stub
@@ -10,7 +10,7 @@ public abstract class PizzaDecorator implements IPizza {
 	@Override
 	public void prepare() {
 		// TODO Auto-generated method stub
-		System.out.println("Decorating Pizza");
+		System.out.println("Decorating pizza");
 		decoratepizza.prepare();
 	}
 }
