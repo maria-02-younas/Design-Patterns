@@ -1,0 +1,15 @@
+D:\Lectures\Semester 7\Design Defects and Restructuring\Design Patterns\Dependency Injection\PropertyInjection\PropertyInjection\obj\Debug\net6.0\PropertyInjection.csproj.AssemblyReference.cache
+D:\Lectures\Semester 7\Design Defects and Restructuring\Design Patterns\Dependency Injection\PropertyInjection\PropertyInjection\obj\Debug\net6.0\PropertyInjection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lectures\Semester 7\Design Defects and Restructuring\Design Patterns\Dependency Injection\PropertyInjection\PropertyInjection\obj\Debug\net6.0\PropertyInjection.AssemblyInfoInputs.cache
+D:\Lectures\Semester 7\Design Defects and Restructuring\Design Patterns\Dependency Injection\PropertyInjection\PropertyInjection\obj\Debug\net6.0\PropertyInjection.AssemblyInfo.cs
+D:\Lectures\Semester 7\Design Defects and Restructuring\Design Patterns\Dependency Injection\PropertyInjection\PropertyInjection\obj\Debug\net6.0\PropertyInjection.csproj.CoreCompileInputs.cache
+D:\Lectures\Semester 7\Design Defects and Restructuring\Design Patterns\Dependency Injection\PropertyInjection\PropertyInjection\bin\Debug\net6.0\PropertyInjection.exe
+D:\Lectures\Semester 7\Design Defects and Restructuring\Design Patterns\Dependency Injection\PropertyInjection\PropertyInjection\bin\Debug\net6.0\PropertyInjection.deps.json
+D:\Lectures\Semester 7\Design Defects and Restructuring\Design Patterns\Dependency Injection\PropertyInjection\PropertyInjection\bin\Debug\net6.0\PropertyInjection.runtimeconfig.json
+D:\Lectures\Semester 7\Design Defects and Restructuring\Design Patterns\Dependency Injection\PropertyInjection\PropertyInjection\bin\Debug\net6.0\PropertyInjection.dll
+D:\Lectures\Semester 7\Design Defects and Restructuring\Design Patterns\Dependency Injection\PropertyInjection\PropertyInjection\bin\Debug\net6.0\PropertyInjection.pdb
+D:\Lectures\Semester 7\Design Defects and Restructuring\Design Patterns\Dependency Injection\PropertyInjection\PropertyInjection\obj\Debug\net6.0\PropertyInjection.dll
+D:\Lectures\Semester 7\Design Defects and Restructuring\Design Patterns\Dependency Injection\PropertyInjection\PropertyInjection\obj\Debug\net6.0\refint\PropertyInjection.dll
+D:\Lectures\Semester 7\Design Defects and Restructuring\Design Patterns\Dependency Injection\PropertyInjection\PropertyInjection\obj\Debug\net6.0\PropertyInjection.pdb
+D:\Lectures\Semester 7\Design Defects and Restructuring\Design Patterns\Dependency Injection\PropertyInjection\PropertyInjection\obj\Debug\net6.0\PropertyInjection.genruntimeconfig.cache
+D:\Lectures\Semester 7\Design Defects and Restructuring\Design Patterns\Dependency Injection\PropertyInjection\PropertyInjection\obj\Debug\net6.0\ref\PropertyInjection.dll
